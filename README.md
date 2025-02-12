@@ -1,8 +1,18 @@
-This project explores university admission predictions using machine learning. It involves manually implementing Decision Tree and Logistic Regression models and comparing their performance with the scikit-learn implementations
+🎓 University Admission Predictions with Machine Learning
+This project explores predicting university admissions using machine learning. Dive into manually implemented models and compare them with scikit-learn's optimized versions!
 
-Features :
+✨ Features
+🛠️ Manual Implementation:
 
-Manual implementation of Decision Tree and Logistic Regression.
-Comparison with scikit-learn versions for accuracy and efficiency.
-Evaluation of model performance on admission datasets.
+🌳 Decision Tree
+📈 Logistic Regression
+⚖️ Comparison:
 
+🔍 Accuracy and efficiency: Manual vs. scikit-learn
+📊 Performance Evaluation:
+
+📂 Admission datasets for model assessment
+🎯 Objectives
+🚀 Build machine learning models from scratch.
+🤖 Compare handcrafted models with scikit-learn's efficient versions.
+🔬 Gain insights into model performance and computational trade-offs.
